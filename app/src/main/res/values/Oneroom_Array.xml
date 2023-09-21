@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="star">
+        <item>★</item>
+        <item>★★</item>
+        <item>★★★</item>
+        <item>★★★★</item>
+        <item>★★★★★</item>
+    </string-array>
+
+    <string-array name="cost">
+        <item>10,000</item>
+        <item>30,000</item>
+        <item>50,000</item>
+        <item>70,000</item>
+        <item>100,000</item>
+    </string-array>
+
+    <integer-array name="resId">
+        <item>@drawable/jennyhouse</item>
+        <item>@drawable/eunhasu</item>
+        <item>@drawable/onsaemiro</item>
+        <item>@drawable/kevin</item>
+        <item>@drawable/artgallery</item>
+        <item>@drawable/bighouse</item>
+        <item>@drawable/celeste</item>
+        <item>@drawable/cervello</item>
+        <item>@drawable/hae</item>
+        <item>@drawable/mate</item>
+        <item>@drawable/riverpine</item>
+        <item>@drawable/smartcity</item>
+        <item>@drawable/solomon</item>
+        <item>@drawable/campusvill</item>
+        <item>@drawable/criaeta</item>
+        <item>@drawable/maison</item>
+        <item>@drawable/milano</item>
+
+    </integer-array>
+
+    <string-array name="title">
+        <item>Jenny House</item>
+        <item>은하수</item>
+        <item>온새미로</item>
+        <item>Kevin</item>
+        <item>아트갤러리</item>
+        <item>빅하우스</item>
+        <item>셀레스테</item>
+        <item>Cervello</item>
+        <item>해오름</item>
+        <item>Mate</item>
+        <item>River Pine</item>
+        <item>SMART city</item>
+        <item>솔로몬</item>
+        <item>Campus Vill</item>
+        <item>크리에타</item>
+        <item>쁘띠메종</item>
+        <item>Milano</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>대전 동구 대학로 83</item>
+        <item>대전 동구 대학로 71</item>
+        <item>대전 동구 대학로 85</item>
+        <item>대전 동구 대학로 62-34</item>
+        <item>대전 동구 대학로 73</item>
+        <item>대전 동구 대학로 62-55</item>
+        <item>대전 동구 대학로 79</item>
+        <item>대전 동구 대학로 62-36</item>
+        <item>대전 동구 대학로 81</item>
+        <item>대전 동구 대학로 62-58</item>
+        <item>대전 동구 대학로 62-54</item>
+        <item>대전 동구 대학로 69</item>
+        <item>대전 동구 대학로 67-1</item>
+        <item>대전 동구 대학로 78</item>
+        <item>대전 동구 대학로 80</item>
+        <item>대전 동구 대학로 62-52</item>
+        <item>대전 동구 대학로 78-1</item>
+    </string-array>
+    <string-array
+        name="year">
+        <item>1993</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>-- 선택해주세요 --</item>
+        <item>남성</item>
+        <item>여성</item>
+    </string-array>
+
+
+
+</resources>

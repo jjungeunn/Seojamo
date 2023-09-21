@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReviewStore">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/oneroom_review"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="Review"
+                android:textAlignment="center"
+                android:textSize="50dp" />
+
+            <!--원룸이름은 추후에 다시 일단은 에디트로 값받는거 설정-->
+
+            <TextView
+                android:id="@+id/result0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n원룸이름\n" />
+
+            <EditText
+                android:id="@+id/receiveText1"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/textstar0"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+
+
+            <TextView
+                android:id="@+id/result1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n거리\n" />
+
+
+            <TextView
+                android:id="@+id/textstar1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/result2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n청결\n" />
+
+
+            <TextView
+                android:id="@+id/textstar2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/result3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n방 크기\n" />
+
+
+            <TextView
+                android:id="@+id/textstar3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/result4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n편의시설\n" />
+
+
+            <TextView
+                android:id="@+id/textstar4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/result5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n가격\n" />
+
+
+            <TextView
+                android:id="@+id/textstar5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/result6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n내용\n" />
+
+            <TextView
+                android:id="@+id/receiveText2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+
+            <Button
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:text="돌아가기" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
